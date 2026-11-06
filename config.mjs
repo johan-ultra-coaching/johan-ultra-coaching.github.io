@@ -7,8 +7,6 @@ export const config = Object.freeze({
   "allowedScopes": [
     "openid",
     "email",
-    "profile",
-    "phone",
     "offline_access"
   ]
 });
